@@ -6,6 +6,8 @@ This project involves analyzing a COVID-19 dataset from Kaggle to practice apply
 ### Dataset Link
 The dataset used for this project is available on [Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report).
 
+---
+
 ### Objectives
 
 1. **Manipulate and Explore Datasets**
@@ -21,6 +23,24 @@ The dataset used for this project is available on [Kaggle](https://www.kaggle.co
 
 4. **Build a Scope of Work (SOW)**
    - Develop a structured plan to address the analysis requirements and guide your work process.
+
+---
+
+### Results
+
+#### Bar Graph
+![Bar Graph](./images/bar_graph.png)
+
+#### Heatmap
+![Heatmap](./images/heatmap.png)
+
+#### Pie Chart
+![Pie Chart](./images/pie_chart.png)
+
+#### Line Chart
+![Line Chart](./images/line_chart.png)
+
+---
 
 ### Outcomes
 - Gain hands-on experience with data manipulation and analysis.
